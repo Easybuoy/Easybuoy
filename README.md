@@ -20,13 +20,11 @@ When not working on a project or thinking about programming, I'm most likely wat
 
 **I am currently looking for a software engineer position with an exciting company.**
 
-<!-- <br /> -->
-
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-<!-- - ⚡ Fun fact: I play Table Tennis -->
 - 👨🏾‍💻 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about Javascript, React, Vue
 - 📫 How to reach me: DM [@easybuoy](https://twitter.com/easybuoy) || Email: ekunolaeasybuoy@gmail.com
 - 😄 Pronouns: He/Him
+- ⚡ Fun fact: I play Table Tennis
