@@ -24,7 +24,7 @@ I'm a Frontend Engineer and [Technical Writer](https://dev.to/easybuoy) based in
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - ⚡ Fun fact: I play Table Tennis -->
-- 👯 I’m looking to collaborate on Open Source Projects
+- 👨🏾‍💻 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about React, Vue
 - 📫 How to reach me: DM [@easybuoy](https://twitter.com/easybuoy) || Email: ekunolaeasybuoy@gmail.com
 - 😄 Pronouns: He/Him
