@@ -23,6 +23,7 @@ When not working on a project or thinking about programming, I'm most likely wat
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 🤔 I’m looking for help with ... -->
+
 - 👨🏾‍💻 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about Javascript, React, Vue
 - 📫 How to reach me: DM [@easybuoy](https://twitter.com/easybuoy) || Email: ekunolaeasybuoy@gmail.com
@@ -46,5 +47,12 @@ When not working on a project or thinking about programming, I'm most likely wat
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>
 
-
 [![Ezekiel's github stats](https://github-readme-stats.vercel.app/api?username=easybuoy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
+📕 **Latest Blog Posts**
+
+- [Combining Stack, Tab & Drawer Navigations in React Native With React Navigation 5](https://dev.to/easybuoy/combining-stack-tab-drawer-navigations-in-react-native-with-react-navigation-5-da)
+- [My journey as a Technical Team Lead and the lessons learned](https://dev.to/easybuoy/my-journey-as-a-technical-team-lead-and-the-lessons-learned-2ikd)
+- [Deploying Vue App from Github to Netlify](https://dev.to/easybuoy/deploying-vue-app-from-github-to-netlify-519g)
+- [Understanding the package.json file](https://dev.to/easybuoy/understanding-the-package-json-file-3fdg)
+- [Setting up Domain with Namecheap & Netlify](https://dev.to/easybuoy/setting-up-domain-with-namecheap-netlify-1a4d)
