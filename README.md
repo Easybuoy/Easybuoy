@@ -14,7 +14,7 @@
 Here are some ideas to get you started:
 -->
 
-I'm a Frontend Engineer and [Technical Writer](https://dev.to/easybuoy) based in Lagos, Nigeria. I'm passionate about web technologies and making the web accessible to everyone.
+I'm a Frontend Engineer, Open Source Contributor and [Technical Writer](https://dev.to/easybuoy) based in Lagos, Nigeria. I'm passionate about web technologies and making the web accessible to everyone.
 
 When not working on a project or thinking about programming, I'm most likely watching TV series on Netflix, playing tennis, sight-seeing, watching Manchester City play football, or spending time with family and friends.
 
