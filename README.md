@@ -51,6 +51,7 @@ When not working on a project or thinking about programming, I'm most likely wat
 
 📕 **Latest Blog Posts**
 
+- [Setting up Chakra UI Vue with Nuxt](https://dev.to/easybuoy/setting-up-chakra-ui-vue-with-nuxt-268m)
 - [Combining Stack, Tab & Drawer Navigations in React Native With React Navigation 5](https://dev.to/easybuoy/combining-stack-tab-drawer-navigations-in-react-native-with-react-navigation-5-da)
 - [My journey as a Technical Team Lead and the lessons learned](https://dev.to/easybuoy/my-journey-as-a-technical-team-lead-and-the-lessons-learned-2ikd)
 - [Deploying Vue App from Github to Netlify](https://dev.to/easybuoy/deploying-vue-app-from-github-to-netlify-519g)
