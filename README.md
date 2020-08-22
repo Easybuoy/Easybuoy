@@ -18,7 +18,7 @@ I'm a Frontend Engineer, Open Source Contributor and [Technical Writer](https://
 
 When not working on a project or thinking about programming, I'm most likely watching TV series on Netflix, playing tennis, sight-seeing, watching Manchester City play football, or spending time with family and friends.
 
-**I am currently looking for a software engineer position with an exciting company.**
+<!-- **I am currently looking for a software engineer position with an exciting company.** -->
 
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 🌱 I’m currently learning ... -->
