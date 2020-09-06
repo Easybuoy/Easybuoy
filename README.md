@@ -14,9 +14,9 @@
 Here are some ideas to get you started:
 -->
 
-I'm a Frontend Engineer, Open-source contributor, and [Technical Writer](https://dev.to/easybuoy) based in Lagos, Nigeria. I'm passionate about web technologies and making the web accessible to everyone.
+I'm a Frontend Engineer, [Open-source contributor](https://github.com/Easybuoy), and [Technical Writer](https://dev.to/easybuoy) based in Lagos, Nigeria. I am passionate about web technologies and making the web accessible to everyone.
 
-When not working on a project or thinking about programming, I'm most likely watching TV series on Netflix, playing tennis, sight-seeing, watching Manchester City play football, or spending time with family and friends.
+When not working on a project or thinking about coding, I would most likely be watching TV series on Netflix, playing tennis, sight-seeing, watching Manchester City play football, or spending time with family and friends.
 
 <!-- **I am currently looking for a software engineer position with an exciting company.** -->
 
